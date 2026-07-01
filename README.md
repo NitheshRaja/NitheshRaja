@@ -1,55 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Nithesh%20S&fontSize=55&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58"/>
-
-<p align="center">
-<img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-</p>
-<p align="center">
-<img width="500" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
-</p>
-<p align="center">
-<img width="400" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&animation=twinkling&text=Nithesh%20S&fontSize=55"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+Developer;LangChain+Developer;RAG+Applications;Full+Stack+Developer"/>
-</p>
-<p align="center">
-<img width="700" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
-</p>
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NitheshRaja&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=NitheshRaja&theme=tokyonight&hide_border=true"/>
-
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NitheshRaja&theme=algolia&column=4"/>
-</p>
-name: Pacman
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-
-jobs:
-  pacman:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: NitheshRaja
-<img src="https://user-images.githubusercontent.com/74038190/212897597-9d0c5df5-6d7f-4b60-b1f8-71bff8ef3f5b.gif">
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581557-8b0c-4d4f-94b5-7ec2fdf7d5d6.gif">
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
 # Hi 👋 I'm Nithesh S
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Generative+AI+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;RAG+%7C+LangChain+%7C+Ollama+%7C+LLMs;Always+Learning+New+Technologies+🚀"/>
