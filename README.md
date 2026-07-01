@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Nithesh%20S&fontSize=55&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=58"/>
 # Hi 👋 I'm Nithesh S
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Generative+AI+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;RAG+%7C+LangChain+%7C+Ollama+%7C+LLMs;Always+Learning+New+Technologies+🚀"/>
