@@ -5,6 +5,9 @@
 <p align="center">
 <img width="700" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </p>
+<p align="center">
+<img width="500" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">
+</p>
 # Hi 👋 I'm Nithesh S
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Generative+AI+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;RAG+%7C+LangChain+%7C+Ollama+%7C+LLMs;Always+Learning+New+Technologies+🚀"/>
